@@ -1,0 +1,23 @@
+wollong@wollong-virtual-machine:~/proj#6$ make
+gcc -Wall -O3 -c ecdsa.c
+gcc -o test test.o ecdsa.o sha2.o -lgmp -lbsd
+wollong@wollong-virtual-machine:~/proj#6$ ./test
+d = 81d4986e111b4a6a72c0a1230708da2f1429d99f2307d705404657f735401aef
+Qx = 9f9c1c22c32105c51e665ef5d4e56f5c896e44f0c5ca6864a3a44ed3ac7cf131
+Qy = 755688918198350b7b44af23830e817d06a16ff2af68d492c82991c80c2949ab
+r = 0cea42bf1707f00ebf7e642a410d415a35c072b74d0c6400726b962f9301d3bc
+s = 4601d6a1513ce68e6a69396066af8ee0099ba80f5455f1fb15f78964d9c7315d
+Valid signature ...PASSED
+Signature verification error = 3 ...PASSED
+Signature verification error = 3 ...PASSED
+---
+Signature verification error = 1 ...PASSED
+---
+Signature verification error = 2 ...PASSED
+Signature verification error = 2 ...PASSED
+---
+Valid signature ...PASSED
+Valid signature ...PASSED
+---
+Random Testing................................................................................ ...PASSED
+CPU 사용시간 = 317.3247초

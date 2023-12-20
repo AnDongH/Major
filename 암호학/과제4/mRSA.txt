@@ -1,0 +1,48 @@
+wollong@wollong-virtual-machine:~/proj#4$ ./test
+e = 0000000000000007
+d = 01478a63e2c74307
+n = 8f4c8bb4b64600c1
+m = 0, c = 0, v = 0
+m = 1, c = 1, v = 1
+m = 2, c = 128, v = 2
+m = 3, c = 2187, v = 3
+m = 4, c = 16384, v = 4
+m = 5, c = 78125, v = 5
+m = 6, c = 279936, v = 6
+m = 7, c = 823543, v = 7
+m = 8, c = 2097152, v = 8
+m = 9, c = 4782969, v = 9
+m = 10, c = 10000000, v = 10
+m = 11, c = 19487171, v = 11
+m = 12, c = 35831808, v = 12
+m = 13, c = 62748517, v = 13
+m = 14, c = 105413504, v = 14
+m = 15, c = 170859375, v = 15
+m = 16, c = 268435456, v = 16
+m = 17, c = 410338673, v = 17
+m = 18, c = 612220032, v = 18
+m = 19, c = 893871739, v = 19
+e = 000000000000000b
+d = 0a68c6d91c627e55
+n = e50116aa550d0e35
+m = 9e2d14b5d6402b18, c = b7f5e1d5bd88991a, v = 9e2d14b5d6402b18
+m = ab02f955fddc4690, c = 10cd6e9dcf6e262a, v = ab02f955fddc4690
+m = 45887c6168074ddb, c = 2fe64b3d7323cb7c, v = 45887c6168074ddb
+m = abb84f5e9fc3d48f, c = 7aa48221f6ebc3af, v = abb84f5e9fc3d48f
+m = 38802d2bf4016be3, c = 26fc958c98241f6d, v = 38802d2bf4016be3
+m = dd1c5e22a504ae0b, c = defef86d896074c5, v = dd1c5e22a504ae0b
+m = 3f136346ac22008c, c = 779ac0e0b461e786, v = 3f136346ac22008c
+m = 3c009f5d4966bd5e, c = 8d7b57a9f083bebc, v = 3c009f5d4966bd5e
+m = fe4b6db8d402946d, m may be too big
+m = 6c83aa77e6df3998, c = 609d9c2ee556a03c, v = 6c83aa77e6df3998
+m = f9827ee7c83d2c0a, m may be too big
+m = fa1789e5e9a3abab, m may be too big
+m = 4f9e320b32a998cb, c = 906e69394527578b, v = 4f9e320b32a998cb
+m = d1beda5f6b37fe93, c = 3e095a49fd0bea6f, v = d1beda5f6b37fe93
+m = eb94cea068c5c459, m may be too big
+m = 715d1fdafddc17f6, c = bbd429fa459d4f12, v = 715d1fdafddc17f6
+m = 186d4fe2701248ac, c = 6968cfc07633417e, v = 186d4fe2701248ac
+m = fcdcb86d07636b25, m may be too big
+m = 66e95f601ef848e1, c = 826f10193899ed40, v = 66e95f601ef848e1
+m = 3370929688d3570f, c = 5ea30eee60011da0, v = 3370929688d3570f
+Random testing................PASSED
